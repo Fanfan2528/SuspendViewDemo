@@ -14,12 +14,4 @@ self.suspend(coverImageName: imageName, type: suspendType)
    Type single means there will be only one suspend window.
    Type multi means there will be several suspend windows.
    Type none means to cancel the suspend window.
-
-# Demonstration
-1. SuspendType: single
-![单悬浮窗模式](/QQ20180725-154436-HD.gif)
-
-2. SuspendType: multi
-![多悬浮窗模式](/QQ20180725-154535-HD.gif)
-
-![悬浮窗拖动](/QQ20180725-154701-HD.gif)
+4. CoverImageName is the image shown on suspend window. 
